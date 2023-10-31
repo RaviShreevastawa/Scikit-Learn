@@ -1,2 +1,4 @@
-# Scikit-Learn
-In this repository we try to go through from all commands of scikit learn
+import ppandas as pd
+import numpy as np
+import scikit learn as sk
+from sk import randomforestclassifier
